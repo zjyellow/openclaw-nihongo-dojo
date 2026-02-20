@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "日语学习",
+    "slug": "nihongo-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FF6B6B"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nihongo.app"
+    },
+    "android": {
+      "package": "com.nihongo.app",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FF6B6B"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-sqlite"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "8d65b13b-f490-4a50-aaa5-a7346d8726d0"
+      }
+    },
+    "owner": "zijunhuang"
+  }
+}
