@@ -4,6 +4,14 @@
 
 ---
 
+## 截图预览
+
+| 首页 | 学习页 | 测验页 | 结果页 |
+|------|--------|--------|--------|
+| ![首页](docs/screenshots/home.png) | ![学习页](docs/screenshots/learn.png) | ![测验页](docs/screenshots/quiz.png) | ![结果页](docs/screenshots/result.png) |
+
+---
+
 ## 项目简介
 
 **Nihongo Dojo（日语道场）** 是一款面向中文母语者的日语入门学习 App，聚焦假名（平假名 / 片假名）与基础词汇的学习与测验。

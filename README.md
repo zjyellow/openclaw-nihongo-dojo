@@ -6,6 +6,14 @@
 
 ---
 
+## Screenshots
+
+| Home | Learn | Quiz | Result |
+|------|-------|------|--------|
+| ![Home](docs/screenshots/home.png) | ![Learn](docs/screenshots/learn.png) | ![Quiz](docs/screenshots/quiz.png) | ![Result](docs/screenshots/result.png) |
+
+---
+
 ## Overview
 
 **Nihongo Dojo** is a Japanese learning app for Chinese-speaking beginners, focusing on Kana (Hiragana / Katakana) and basic vocabulary study and quizzes.
